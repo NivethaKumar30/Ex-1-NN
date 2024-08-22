@@ -29,6 +29,7 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
+
 STEP 1:Importing the libraries<BR>
 STEP 2:Importing the dataset<BR>
 STEP 3:Taking care of missing data<BR>
@@ -37,6 +38,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+
 Import Libraries
 ```
 
@@ -113,7 +115,9 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
+
 Data checking:
+
 ![image](https://github.com/user-attachments/assets/d05f34d3-de3d-496a-b6b8-4002d1781900)
 
 Missing Data:

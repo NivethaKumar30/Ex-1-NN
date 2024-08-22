@@ -122,24 +122,31 @@ Missing Data:
 
 
 Duplicates identification:
+
 ![image](https://github.com/user-attachments/assets/ffbab17c-083a-4602-accc-eaafc141ca74)
 
 Vakues of 'Y':
+
 ![image](https://github.com/user-attachments/assets/2f839b2e-e0a5-4f68-adea-636d94a1a85e)
 
 Outliers:
+
 ![image](https://github.com/user-attachments/assets/05851ca0-40f7-46b5-94f9-5cba457ddc6f)
 
 Checking datasets after dropping string values data from dataset:
+
 ![image](https://github.com/user-attachments/assets/5c7d6569-ff7a-4902-8e40-5d7635d41edc)
 
 Normalize the dataset:
+
 ![image](https://github.com/user-attachments/assets/f5593103-b638-41dd-9e41-41e5ad63f988)
 
 Split the dataset:
+
 ![image](https://github.com/user-attachments/assets/a152252b-6532-4a40-99b0-f164b7409b43)
 
 Training and Testing model:
+
 ![image](https://github.com/user-attachments/assets/51160bce-521e-4a0f-8837-3b6e769bf8a1)
 
 
